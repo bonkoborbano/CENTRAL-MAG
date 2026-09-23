@@ -6,7 +6,7 @@
 
 3. Copy and paste the following line into the Terminal window and press enter: python3 -m http.server 7800
 
-(Do not be alarmed by the malware warning, paste the line)
+  (Do not be alarmed by the malware warning, paste the line)
 
 5. Type localhost:7800 in your browser and go to the site.
 

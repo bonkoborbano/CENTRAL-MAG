@@ -2,10 +2,11 @@
 
 1. Open Terminal.
 
-2. Type "cd" + space and drag the CENTRAL CD folder into the Terminal window and press enter.
+2. Type "cd" + space and drag the CENTRAL-MAG-Main folder into the Terminal window and press enter.
 
 3. Copy and paste the following line into the Terminal window and press enter: python3 -m http.server 7800
+(Do not be alarmed by the malware warning, paste the line)
 
-4. Type localhost:7800 in your browser.
+5. Type localhost:7800 in your browser and go to the site.
 
-5. Press ctrl + c to close server when you are done browsing.
+6. Press ctrl + c while in the Terminal window to close your local server when you are done browsing.

@@ -8,6 +8,6 @@
 
   (Do not be alarmed by the malware warning, paste the line)
 
-5. Type localhost:7800 in your browser and go to the site.
+4. Type "localhost:7800" in your browser and go to the site.
 
-6. Press ctrl + c while in the Terminal window to close your local server when you are done browsing.
+5. Press ctrl + c while in the Terminal window to close your local server when you are done browsing.
